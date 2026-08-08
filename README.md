@@ -6,102 +6,6 @@
 
 <h3>B.Tech CSE Student • Full Stack Developer • AI & Data Science Enthusiast</h3>
 
-
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<a href="https://github.com/anshulupadhyay61" target="_blank">
-<img src="https://cdn.simpleicons.org/github/FFFFFF"
-     width="40"
-     height="40"
-     alt="GitHub"/>
-<br>
-<sub><b>GitHub</b></sub>
-</a>
-</td>
-
-<td width="30"></td>
-
-<td align="center">
-<a href="https://www.linkedin.com/in/anshulupadhyay61/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-     width="40"
-     height="40"
-     alt="LinkedIn"/>
-<br>
-<sub><b>LinkedIn</b></sub>
-</a>
-</td>
-
-<td width="30"></td>
-
-<td align="center">
-<a href="https://www.instagram.com/anshulupadhyay61/" target="_blank">
-<img src="https://cdn.simpleicons.org/instagram/E4405F"
-     width="40"
-     height="40"
-     alt="Instagram"/>
-<br>
-<sub><b>Instagram</b></sub>
-</a>
-</td>
-
-<td width="30"></td>
-
-<td align="center">
-<a href="https://www.youtube.com/@anshulupadhyaycomedy" target="_blank">
-<img src="https://cdn.simpleicons.org/youtube/FF0000"
-     width="44"
-     height="40"
-     alt="YouTube"/>
-<br>
-<sub><b>YouTube</b></sub>
-</a>
-</td>
-
-<td width="30"></td>
-
-<td align="center">
-<a href="https://leetcode.com/u/anshulupadhyay61/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116"
-     width="40"
-     height="40"
-     alt="LeetCode"/>
-<br>
-<sub><b>LeetCode</b></sub>
-</a>
-</td>
-
-<td width="30"></td>
-
-<td align="center">
-<a href="mailto:Anshulupadhyay73@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335"
-     width="40"
-     height="40"
-     alt="Email"/>
-<br>
-<sub><b>Email</b></sub>
-</a>
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img
-src="https://komarev.com/ghpvc/?username=anshulupadhyay61&label=Profile%20Views&color=0e75b6&style=flat"
-alt="Profile Views"
-/>
-
-</div>
-
-
 </div>
 
 ---
@@ -258,25 +162,29 @@ width="100%"
 alt="GitHub Contribution Streak"
 />
 
+<h3 align="center">🎯 What I'm Focused On</h3>
+<p align="center">
+
+🚀 <b>Full Stack Development</b>
+<br>
+Building modern & scalable web applications.
+<br>
+
+🧠 <b>DSA & LeetCode</b>
+<br>
+Consistent problem solving & documentation.
+<br>
+
+📊 <b>Data Science</b>
+<br>
+Learning data analysis & ML workflows.
+<br>
+</p>
 </td>
+
 
 </tr>
 </table>
-
-</div>
-
----
----
-
-## 🎯 What I'm Focused On
-
-<div align="center">
-
-| 💻 Development | 🧠 Problem Solving | 🤖 AI & Data |
-|:---:|:---:|:---:|
-| Full Stack Projects | LeetCode & DSA | AI / ML |
-| React & Node.js | Consistent Practice | Data Science |
-| Modern Web Apps | C++ & Python | Intelligent Applications |
 
 </div>
 
@@ -367,8 +275,6 @@ alt="GitHub Contribution Streak"
 
 </tr>
 </table>
-
-<br>
 
 <sub>Let's connect, collaborate and build something meaningful 🚀</sub>
 
