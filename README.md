@@ -16,7 +16,7 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🔭 I'm currently working on **[LeetCode-Daily](https://github.com/anshulupadhyay61/Leetcode-Daily)** — solving and documenting LeetCode problems consistently.
+
 
 - 🌱 I'm currently learning **Data Science • LeetCode • Advanced React • Node.js • AI/ML**
 
@@ -27,6 +27,8 @@
 - 💬 Ask me about **Python • C++ • React • Full Stack Development • LeetCode**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://my-portfolio-alpha-sepia-19.vercel.app/)**
+
+- 🔭 I'm currently working on **[LeetCode-Daily](https://github.com/anshulupadhyay61/Leetcode-Daily)** — solving and documenting LeetCode problems consistently.
 
 - 📫 How to reach me **Anshulupadhyay73@gmail.com**
 
@@ -42,19 +44,19 @@
   alt="Coding Animation"
 />
 
-</td>
-</tr>
-</table>
-
-## 🧠 Currently Working On
+<h3 align="center">🧠 Currently Working On</h3>
 
 <div align="center">
 
 ### 🚀 [LeetCode-Daily](https://github.com/anshulupadhyay61/Leetcode-Daily)
 
-**Consistent DSA Practice • Problem Solving • Learning • Documentation**
+**Consistent DSA Practice • Problem Solving • Learning**
 
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -151,17 +153,18 @@
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=anshulupadhyay61&theme=tokyo-night&hide_border=true&area=true"
 width="100%"
+height="200"
 alt="GitHub Contribution Activity"
 />
 
-<br>
 
 <img
 src="https://streak-stats.demolab.com?user=anshulupadhyay61&theme=tokyonight&hide_border=true"
 width="100%"
+height="180"
 alt="GitHub Contribution Streak"
 />
-
+<hr>
 <h3 align="center">🎯 What I'm Focused On</h3>
 <p align="center">
 
