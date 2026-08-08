@@ -154,73 +154,118 @@ alt="Profile Views"
 
 ---
 
-## 🛠️ Languages & Tools
-
-### 💻 Programming Languages
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-</p>
-
-### 🎨 Frontend Development
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-</p>
-
-### 📊 Data Science
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
+## 💻 Tech Stack & GitHub
 
 <div align="center">
 
+<table>
+<tr>
+
+<!-- ================= TECH STACK ================= -->
+
+<td width="30%" valign="top">
+
+<h3 align="center">🛠️ LANGUAGES & TOOLS</h3>
+
+<p align="center">
+
+  <!-- Programming -->
+  <h3>💻 Programming Languages</h3> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+       width="40" height="40" alt="C++" title="C++"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       width="40" height="40" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+
+  <!-- Frontend -->
+  <h3>🎨 Frontend Development</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+       width="40" height="40" alt="HTML5" title="HTML5"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+       width="40" height="40" alt="CSS3" title="CSS3"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+       width="40" height="40" alt="React" title="React"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+       width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+  &nbsp;
+
+  <!-- Backend -->
+  <h3>⚙️ Backend Development</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+       width="40" height="40" alt="Node.js" title="Node.js"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+       width="40" height="40" alt="Express.js" title="Express.js"/>
+  &nbsp;&nbsp;
+
+  <!-- Database -->
+  <h3>🗄️ Databases</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+       width="40" height="40" alt="MongoDB" title="MongoDB"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+       width="40" height="40" alt="MySQL" title="MySQL"/>
+  &nbsp;&nbsp;
+
+  <!-- Data Science -->
+  <h3>📊 Data Science</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+       width="40" height="40" alt="Pandas" title="Pandas"/>
+
+</p>
+
+<!-- <p align="center">
+  <sub>
+    <b>Programming</b> • C++ • Python
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <b>Frontend</b> • HTML • CSS • React • Tailwind
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <b>Backend</b> • Node.js • Express
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <b>Database</b> • MongoDB • MySQL
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <b>Data</b> • Pandas
+  </sub>
+</p> -->
+
+</td>
+
+
+
+
+
+<!-- ================= CONTRIBUTION ACTIVITY ================= -->
+
+<td width="35%" valign="top">
+
+<h3>📈 Contribution Activity</h3>
+
 <img
-src="https://streak-stats.demolab.com?user=anshulupadhyay61&theme=tokyonight&hide_border=true"
-alt="Anshul's GitHub Statistics"
-/>
-
-</div>
-
----
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=anshulupadhyay61&theme=tokyo-night&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=anshulupadhyay61&theme=tokyo-night&hide_border=true&area=true"
 width="100%"
 alt="GitHub Contribution Activity"
 />
 
+<br>
+
+<img
+src="https://streak-stats.demolab.com?user=anshulupadhyay61&theme=tokyonight&hide_border=true"
+width="100%"
+alt="GitHub Contribution Streak"
+/>
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
+---
 ---
 
 ## 🎯 What I'm Focused On
