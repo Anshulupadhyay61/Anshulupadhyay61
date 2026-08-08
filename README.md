@@ -1,4 +1,4 @@
-![logo](https://github.com/Anshulupadhyay61/Anshulupadhyay61/blob/main/github%20update%20profile.png)
+![logo](https://github.com/Anshulupadhyay61/Anshulupadhyay61/blob/main/ChatGPT%20Image%20Aug%209%2C%202026%2C%2012_31_37%20AM.png)
 
 <div align="center">
 
