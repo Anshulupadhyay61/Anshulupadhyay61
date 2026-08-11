@@ -1,0 +1,33 @@
+name: Generate GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    paths:
+      - ".github/workflows/snake.yml"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Anshulupadhyay61
+          outputs: |
+            profile/github-snake.svg?color_snake=39ff14&color_dots=#161b22,#0e4429,#006d32,#26a641,#39ff14
+            profile/github-snake-dark.svg?color_snake=39ff14&color_dots=#161b22,#0e4429,#006d32,#26a641,#39ff14
+
+      - name: Push Snake Animation
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update GitHub contribution snake"
+          add: "profile/github-snake.svg profile/github-snake-dark.svg"
