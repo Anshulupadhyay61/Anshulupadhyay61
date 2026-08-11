@@ -10,17 +10,19 @@
 
 ---
 
-## 🐍 GitHub Contribution Journey
+<!-- 🐍 GitHub Contribution Snake -->
 
 <div align="center">
 
 <img
-  src="./profile/github-snake-dark.svg"
-  alt="GitHub Contribution Snake Animation"
+  src="https://raw.githubusercontent.com/Anshulupadhyay61/Anshulupadhyay61/main/profile/snake.svg"
   width="100%"
+  alt="GitHub Contribution Snake"
 />
 
 </div>
+
+<br>
 
 ---
 
