@@ -10,6 +10,20 @@
 
 ---
 
+## 🐍 GitHub Contribution Journey
+
+<div align="center">
+
+<img
+  src="./profile/github-snake-dark.svg"
+  alt="GitHub Contribution Snake Animation"
+  width="100%"
+/>
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 <table>
