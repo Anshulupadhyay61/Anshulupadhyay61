@@ -10,27 +10,26 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-
-      # Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Generate contribution snake
-      - name: Generate Snake
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             profile/snake.svg
 
-      # Commit generated snake
-      - name: Commit Snake
+      - name: Commit generated snake
         uses: EndBug/add-and-commit@v9
         with:
-          add: "profile/snake.svg"
-          message: "Update contribution snake"
+          add: profile/snake.svg
+          message: "Update GitHub contribution snake"
