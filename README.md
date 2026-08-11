@@ -15,7 +15,7 @@
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Anshulupadhyay61/Anshulupadhyay61/main/profile/snake.svg"
+  src="https://raw.githubusercontent.com/Anshulupadhyay61/Anshulupadhyay61/main/profile/github-snake.svg"
   width="100%"
   alt="GitHub Contribution Snake"
 />
