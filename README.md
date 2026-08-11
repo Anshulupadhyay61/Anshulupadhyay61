@@ -159,10 +159,10 @@ alt="GitHub Contribution Activity"
 
 
 <img
-src="https://streak-stats.demolab.com?user=anshulupadhyay61&theme=tokyonight&hide_border=true"
-width="100%"
-height="180"
-alt="GitHub Contribution Streak"
+  src="./profile/streak.svg"
+  width="100%"
+  height="180"
+  alt="GitHub Contribution Streak"
 />
 <hr>
 <h3 align="center">🎯 What I'm Focused On</h3>
