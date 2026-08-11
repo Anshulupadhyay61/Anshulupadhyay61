@@ -1,4 +1,4 @@
-name: Generate GitHub Contribution Snake
+name: Generate Premium GitHub Contribution Snake
 
 on:
   push:
@@ -16,20 +16,19 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
 
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
+      - name: Generate premium contribution snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            profile/snake.svg
+            profile/snake.svg?color_snake=#39FF88&color_dots=#111827,#064E3B,#047857,#10B981,#39FF88
 
-      - name: Commit generated snake
+      - name: Commit snake animation
         uses: EndBug/add-and-commit@v9
         with:
           add: profile/snake.svg
-          message: "Update GitHub contribution snake"
+          message: "✨ Update premium contribution snake"
