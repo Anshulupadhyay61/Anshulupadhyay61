@@ -1,7 +1,16 @@
-![logo](https://github.com/Anshulupadhyay61/Anshulupadhyay61/blob/main/ChatGPT%20Image%20Aug%209%2C%202026%2C%2012_31_37%20AM.png)
 
 <div align="center">
 
+<img
+  src="https://raw.githubusercontent.com/Anshulupadhyay61/Anshulupadhyay61/main/profile/banner.gif"
+  width="100%"
+  alt="Anshul Upadhyay - Developer"
+/>
+
+</div>
+
+<div align="center">
+   
 <h1>Hi 👋, I'm Anshul Upadhyay</h1>
 
 <h3>B.Tech CSE Student • Full Stack Developer • AI & Data Science Enthusiast</h3>
